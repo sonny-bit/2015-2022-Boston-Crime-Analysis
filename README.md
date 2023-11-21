@@ -5,18 +5,26 @@ The objective of this project is to explore crime data in Boston, employing data
 ## Folder Structure
 
 - **Init Analysis:** Description of the initial analysis for the year 2022.
-- **Full Analysis + Tableau Report:** Description of the comprehensive analysis and Tableau report covering 2018-2022.
+- **Full Analysis + Tableau Report:** Description of the comprehensive analysis and Tableau report covering the period from 2018 to 2022. This section includes:
+  - The Jupyter Notebook for data preprocessing, responsible for creating the 2015-2022 dataset Excel file.
+  - The Tableau file for data visualization.
+  - Another Jupyter Notebook analyzing and explaining the findings derived from the comprehensive analysis.
 - **Data:** Explanation of the data folder and the data files it contains.
 - **Images:** Explanation of the images folder and any visualizations or images present.
 
 ## Sources
 
 Boston Crime reports were obtained here: [Crime Incident Reports in Boston](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system)
+
 Boston's Map Data was obtained with the help of Rice University: [Rice University Workshop Files](https://rice.app.box.com/s/njkt1fc8pe1j3dajsccgid3sltoiy4av)
 
 ## Results
 
-In terms of district, Roxbury had the largest amount of crimes, while Charlestown had the least. Property Crime contained the highest amount of crime count, while Sexual Offenses had the least amount of crimes. 2017 had the largest amount of crimes, whereas 2020 had the least amount of crimes. In terms of the seasons, Summer had the most crimes while Winter had the least crimes. Lastly, Friday is the weekday that had the most crimes. Sunday had the least crimes within the week.
+- In terms of district, Roxbury had the largest amount of crimes, while Charlestown had the least.
+- Property Crime contained the highest amount of crime count, while Sexual Offenses had the least amount of crimes.
+- 2017 had the largest amount of crimes, whereas 2020 had the least amount of crimes.
+- In terms of the seasons, Summer had the most crimes while Winter had the least crimes.
+- Lastly, Friday is the weekday that had the most crimes. Sunday had the least crimes within the week.
 
 ## Visuals
 
