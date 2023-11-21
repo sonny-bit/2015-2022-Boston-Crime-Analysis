@@ -20,10 +20,10 @@ In terms of district, Roxbury had the largest amount of crimes, while Charlestow
 
 ## Visuals
 
-![Crime By District](../Images/Crimes_By_District.jpg)
-![Crime By Category](../Images/Crimes_By_Category.jpg)
-![Crime By Year](../Images/Crimes_By_Year.jpg)
-![Crime By Month](../Images/Crimes_By_Month.jpg)
+![Crime By District](Images/Crimes_By_District.jpg)
+![Crime By Category](Images/Crimes_By_Category.jpg)
+![Crime By Year](Images/Crimes_By_Year.jpg)
+![Crime By Month](Images/Crimes_By_Month.jpg)
 ![Crime By Day Of Week](../Images/Crimes_By_Day_Of_Week.jpg)
 
 ## Contact
