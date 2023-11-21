@@ -38,3 +38,4 @@ Boston's Map Data was obtained with the help of Rice University: [Rice Universit
 
 - Sonny Mei
 - sonnywcmei@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/sonny-mei/)
